@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Flutter,**
 
-- 📫 How to reach me **balkrishnalamsal.com**
+- 📫 How to reach me **balkrishnalamsal12@.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
