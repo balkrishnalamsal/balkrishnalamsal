@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Flutter,**
 
-- 📫 How to reach me **balkrishnalamsal12@.com**
+- 📫 How to reach me **balkrishnalamsal12@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
