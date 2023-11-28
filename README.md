@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **React & Unity**
+- 🌱 I’m currently learning **Flutter,React & Unity**
 
 - 👨‍💻 All of my projects are available at [https://balkrishnalamsal.com](https://balkrishnalamsal.com)
 
