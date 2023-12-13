@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **balkrishnalamsal12@gmail.com**
 - 📫 My another active github account: **https://github.com/adwinlamsal**
+- I have publish apps on google playstore and Microsoft store.
+
 
 
 <h3 align="left">Connect with me:</h3>
