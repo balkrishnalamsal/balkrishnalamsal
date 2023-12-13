@@ -27,7 +27,7 @@
 Experience
 
 - 🌱 Wroking as Flutter developer : 3 years
-- 🌱 Currently doing intern at Codsoft as flutter developer.
+- 🌱 I have successfully completed internship at Codsoft.
 
 
 <h3 align="left">Languages and Tools:</h3>
