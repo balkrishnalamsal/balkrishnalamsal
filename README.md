@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter,React & Unity**
 
-- 👨‍💻 All of my projects are available at [https://balkrishnalamsal.com](https://balkrishnalamsal.com)
+- 👨‍💻 Here is my portofolio web app [https://balkrishnalamsal.com](https://balkrishnalamsal.com)
 
 - 💬 Ask me about **Flutter,**
 
