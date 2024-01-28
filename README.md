@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning **Flutter,React & Unity**
-- Another GitHub Account : https://github.com/adwinlamal
+- Another GitHub Account : [https://github.com/adwinlamal](https://github.com/adwinlamsal)
 
 - 👨‍💻 Here is my portofolio web app [https://balkrishnalamsal.com](https://balkrishnalamsal.com)
 
