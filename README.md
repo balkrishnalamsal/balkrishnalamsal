@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter,React & Unity**
+- 🌱  **Flutter,NodeJs,MongoDB,Firebase**
 - Another GitHub Account : [https://github.com/adwinlamal](https://github.com/adwinlamsal)
 
 - 👨‍💻 Here is my portofolio web app [https://balkrishnalamsal.com](https://balkrishnalamsal.com)
@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/krishna-lamsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishna-lamsal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC_FhzkU14Dtky_NCxN8ScMw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC_FhzkU14Dtky_NCxN8ScMw" height="30" width="40" /></a>
 </p>
-<img align="right" alt="coding" width="400" src="https://github.com/balkrishnalamsal/portfolio_Balkrishna_Lamsal/raw/master/certificate.png">Experience
+Experience
 
 - 🌱 Wroking as Flutter developer : 3 years
 - 🌱 I have successfully completed internship at Codsoft.
